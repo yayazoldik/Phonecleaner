@@ -1,0 +1,9 @@
+{
+  "admob": {
+    "app_id": "your_app_id",
+    "banner": "your_banner_ad_id",
+    "interstitial": "your_interstitial_ad_id",
+    "reward": "your_reward_ad_id",
+    "native": "your_native_ad_id"
+  }
+}
